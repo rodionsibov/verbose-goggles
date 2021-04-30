@@ -192,7 +192,7 @@ export default {
             position: absolute;
             padding: 8px 16px;
             background-color: #43b883;
-            color: fff;
+            color: #fff;
             bottom: 16px;
             left: 0;
             text-transform: capitalize;
