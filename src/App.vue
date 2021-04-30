@@ -44,7 +44,7 @@ header {
     font-size: 28px;
 
     span {
-      color: #428883;
+      color: #42b883;
     }
   }
 }
